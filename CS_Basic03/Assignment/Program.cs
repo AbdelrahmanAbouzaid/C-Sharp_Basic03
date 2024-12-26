@@ -117,7 +117,7 @@ namespace Assignment
             //do
             //{
             //    Console.Write("Enter the number: ");
-            //} while (!int.TryParse(Console.ReadLine(), out number));
+            //} while (!int.TryParse(Console.ReadLine(), out number) || number <= 0);
 
             //for (int i = 1; i <= number; i++)
             //{
